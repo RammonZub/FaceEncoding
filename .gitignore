@@ -1,0 +1,16 @@
+# Backend virtual environment
+backend/env/
+
+# Node modules for frontend
+frontend/node_modules/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+
+# Other common rules...
+
+
